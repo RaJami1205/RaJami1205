@@ -11,7 +11,7 @@ I'm a Computer Engineering student at Tecnológico de Costa Rica, currently appr
 ## 👨‍💻 About Me
 
 - Computer Engineering student at **Tecnológico de Costa Rica**.
-- Focused on **Software Engineering, Full-Stack Development, and Backend Development**.
+- Focused on **Software Engineering and Full-Stack Development**.
 - Academic experience developing **web and mobile applications**.
 - Experience designing and working with **relational databases**.
 - Experience developing and integrating **REST APIs**.
