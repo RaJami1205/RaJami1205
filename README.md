@@ -1,16 +1,31 @@
-# Hi, I'm Jamir Alfaro 👋
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&color=gradient&customColorList=24,20,17,12,30&animation=fadeIn"
+    width="100%"
+    alt="header"
+  />
+</p>
 
-### Computer Engineering Student @ Tecnológico de Costa Rica
+<h1 align="center">
+  Hi, I'm Jamir Alfaro
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" alt="waving hand" />
+</h1>
 
-**Software Development | Full-Stack Development**
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1200&color=00E7FF&background=00000000&center=true&vCenter=true&width=850&height=60&lines=Computer+Engineer;Software+Developer;Full-Stack+Developer"
+    alt="Typing SVG"
+  />
+</p>
 
-I'm a Computer Engineering student at Tecnológico de Costa Rica, currently approaching my professional internship and strengthening my academic experience across software development, databases, web and mobile development, software engineering, and computer systems.
+<p align="center">
+  I'm a Computer Engineering student at Tecnológico de Costa Rica, currently approaching my professional internship and strengthening my academic experience across software development, databases, web and mobile development, software engineering, and computer systems.
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- Computer Engineering student at **Tecnológico de Costa Rica**.
 - Focused on **Software Engineering and Full-Stack Development**.
 - Academic experience developing **web and mobile applications**.
 - Experience designing and working with **relational databases**.
@@ -87,6 +102,23 @@ I'm a Computer Engineering student at Tecnológico de Costa Rica, currently appr
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-stats-extended.vercel.app/api?username=RaJami1205&show_icons=true&theme=github_dark&hide_border=true"
+    alt="Jamir's GitHub Stats"
+  />
+  <img
+    height="170"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=RaJami1205&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
 
 ---
 
