@@ -122,16 +122,6 @@
 
 ---
 
-## 🎯 Current Focus
+## 🤝 Connect with Me
 
-Currently strengthening my knowledge in:
-
-- Software Engineering
-- Full-Stack Development
-- Backend Development
-- Software Architecture
-- Databases and Distributed Systems
-- Operating Systems
-- Automated Testing
-- Continuous Integration
-- Professional collaborative development
+### 🔗 [LinkedIn](https://www.linkedin.com/in/jamir-alfaro-cr)
